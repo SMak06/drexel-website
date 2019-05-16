@@ -18,6 +18,9 @@
 .left-nav{
   list-style: none;
 }
+.left-nav-dots{
+  padding:0.2em;
+}
 .btn1{
   background-color: #babfc6; /* Green */
   border: none;
