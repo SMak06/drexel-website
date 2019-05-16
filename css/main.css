@@ -1,0 +1,20 @@
+:root{
+  --main-blue: #15216d;
+}
+.sub-head-y{
+  background-color: #f4c542;
+  padding: .3em;
+  font-size: .8em;
+  padding-left:1.5em;
+  color: var(--main-blue);
+}
+.sub-head-w{
+  background-color: #;
+  padding: .3em;
+  font-size: .8em;
+  padding-left:1.5em;
+  color: var(--main-blue);
+}
+.left-nav{
+  list-style: none;
+}
